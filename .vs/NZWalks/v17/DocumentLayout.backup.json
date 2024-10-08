@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\repository\\sqlwalkrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repository\\sqlwalkrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\repository\\sqlregionrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repository\\sqlregionrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\repository\\iregionrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repository\\iregionrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\repository\\iwalkrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repository\\iwalkrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\repository\\iimagerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repository\\iimagerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\repository\\itokenrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repository\\itokenrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.ui\\nzwalks.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DB384BEA-5E12-4EC1-AC32-875A4BA7E77B}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\nzwalks.ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\repository\\localimagerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repository\\localimagerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\exaze trsa28\\onedrive - exazeit\\nzwalks\\nzwalks\\nzwalks.api\\migrations\\20240912075227_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BEF502-6305-4119-8B67-B61CAEE8ECCA}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\20240912075227_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:44:16.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWalkRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\IWalkRespository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repository\\IWalkRespository.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\IWalkRespository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repository\\IWalkRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:48:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IImageRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\IImageRespository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repository\\IImageRespository.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\IImageRespository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repository\\IImageRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:48:14.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\ITokenRespository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repository\\ITokenRespository.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\ITokenRespository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repository\\ITokenRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:48:09.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:27:10.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:27:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Program.cs",
+              "RelativeToolTip": "NZWalks.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:57:19.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T09:55:54.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:55:26.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLWalkRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\SQLWalkRespository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repository\\SQLWalkRespository.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\SQLWalkRespository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repository\\SQLWalkRespository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:54:34.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLRegionRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\SQLRegionRespository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repository\\SQLRegionRespository.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\SQLRegionRespository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repository\\SQLRegionRespository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:53:53.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IregionRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\IregionRespository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repository\\IregionRespository.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\IregionRespository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repository\\IregionRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:53:39.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NZWalks.UI",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
+              "RelativeDocumentMoniker": "NZWalks.UI\\NZWalks.UI.csproj",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.UI\\NZWalks.UI.csproj",
+              "RelativeToolTip": "NZWalks.UI\\NZWalks.UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T09:49:12.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:40:19.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocalImageRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\LocalImageRespository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repository\\LocalImageRespository.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Repository\\LocalImageRespository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repository\\LocalImageRespository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:18:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:00:03.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:56:51.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240912075227_Adding images Table.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Migrations\\20240912075227_Adding images Table.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20240912075227_Adding images Table.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Migrations\\20240912075227_Adding images Table.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20240912075227_Adding images Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:52:27.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\OneDrive - EXAZEIT\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:41:48.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
