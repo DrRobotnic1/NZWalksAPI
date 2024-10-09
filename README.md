@@ -13,4 +13,18 @@ Welcome to the NZWalks API project! This API, developed using ASP.NET C#, serves
 - **Migrations**: Using Entity Framework migrations to manage database schema changes seamlessly.
 - **Filters**: Implementing action filters for better request handling and response management.
 
-This project not only deepened my understanding of backend development but also strengthened my skills in building robust, scalable APIs. Feel free to explore the code, contribute, or provide feedback!
+## How to Run
+
+To run the NZWalks API locally, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   https://github.com/DrRobotnic1/NZWalksAPI.git
+   cd nzwalks-api
+   dotnet restore
+   dotnet ef database update
+   dotnet run
+   
+ 
+
